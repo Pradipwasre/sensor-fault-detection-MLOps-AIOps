@@ -28,3 +28,5 @@ Terraform
 scania-sensor-pipeline-11
 
 link : "044180151879.dkr.ecr.ap-northeast-1.amazonaws.com/sensor-fault"
+
+bucket
