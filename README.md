@@ -23,3 +23,8 @@ AWS EC2
 AWS ECR
 Git Actions
 Terraform
+
+# S3 bucket name:
+scania-sensor-pipeline-11
+
+link : "044180151879.dkr.ecr.ap-northeast-1.amazonaws.com/sensor-fault"
